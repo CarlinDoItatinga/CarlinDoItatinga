@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+MEU NOME É CARLOS EDUARDO MESSIAS JUNIOR 
+TENHO 17 ANOS 
+1,28 DE ALTURA
+ESTOU NO TERCEIRO ANO DO ESINO MÉDIO
 <!--
 **CarlinDoItatinga/CarlinDoItatinga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
